@@ -1,0 +1,38 @@
+[{
+  "order_id": "ORD-1001",
+  "customer_id": "CUST-5678",
+  "order_date": "2025-08-09T10:15:30Z",
+  "items": [
+    {
+      "product_id": "P-101",
+      "product_name": "Wireless Mouse",
+      "quantity": 2,
+      "price": 15.99
+    },
+    {
+      "product_id": "P-205",
+      "product_name": "Mechanical Keyboard",
+      "quantity": 1,
+      "price": 79.50
+    }
+  ],
+  "total_amount": 111.48,
+  "currency": "USD",
+  "status": "NEW"
+}
+
+
+
+{
+  "order_id": "ORD-2002",
+  "customer_id": "CUST-9988",
+  "order_date": "2025-08-09T11:45:00Z",
+  "items": [
+    { "product_id": "P-501", "product_name": "Smartphone Case", "quantity": 3, "price": 9.99 },
+    { "product_id": "P-888", "product_name": "Screen Protector", "quantity": 2, "price": 5.50 }
+  ],
+  "total_amount": 40.97,
+  "currency": "USD",
+  "status": "PROCESSING"
+}
+]
